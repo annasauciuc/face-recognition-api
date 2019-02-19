@@ -1,0 +1,26 @@
+{
+    "name": "node",
+    "version": "1.0.0",
+    "description": "��#\u0000 \u0000f\u0000a\u0000c\u0000e\u0000-\u0000r\u0000e\u0000c\u0000o\u0000g\u0000n\u0000i\u0000t\u0000i\u0000o\u0000n\u0000-\u0000a\u0000p\u0000i\u0000\r\u0000 \u0000",
+    "main": "index.js",
+    "scripts": {
+        "start": "nodemon server.js"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/annasauciuc/face-recognition-api.git"
+    },
+    "author": "ana",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/annasauciuc/face-recognition-api/issues"
+    },
+    "homepage": "https://github.com/annasauciuc/face-recognition-api#readme",
+    "dependencies": {
+        "body-parser": "^1.18.3",
+        "express": "^4.16.4"
+    },
+    "devDependencies": {
+        "nodemon": "^1.18.10"
+    }
+}
